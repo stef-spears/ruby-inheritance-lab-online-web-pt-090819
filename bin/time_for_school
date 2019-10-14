@@ -26,3 +26,5 @@ jim.last_name = "Rim"
 new_knowledge = avi.teach 
 
 jim.learn(new_knowledge)
+
+puts "Jim would like to tell you something! #{jim.knowledge.first}."
